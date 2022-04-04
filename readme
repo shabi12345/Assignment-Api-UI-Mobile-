@@ -1,0 +1,4 @@
+To Run the Mobile Tests, First you have to download and install appium, and then configured it on default port, 
+Once you define the default port, then set all the desired capabilities according to your mobile and its plateform version.
+Once you done just run the login_test using any IDE,
+Make sure before running you have configured Python in your system and set system environment variable accordingly.
